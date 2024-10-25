@@ -1,0 +1,9 @@
+{
+  "name": "polynomial-secret",
+  "version": "1.0.0",
+  "description": "Polynomial Secret Sharing Implementation",
+  "main": "solution.js",
+  "scripts": {
+    "start": "node solution.js"
+  }
+}
